@@ -1,0 +1,14 @@
+def function():
+    ""
+def function():
+    ""
+def balance():
+    ""
+    def main():
+        print("welcome to [set website name]")
+username=input (what is your username.)
+password=(get pass.get pass)
+print(password)
+print("welcome!",username)
+checking = 600
+choice = int(input(1.withdraw,2.deposit,3.balance))
